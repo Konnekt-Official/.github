@@ -1,4 +1,4 @@
-# Konnekt
+# Konnekt Official
 
 This GitHub organization hosts all repositories related to **Konnekt**, a modern social media and messaging platform developed as part of the **ST4005CMD - Integrative Project** at **Softwarica College of IT and E-Commerce**.
 
