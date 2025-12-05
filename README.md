@@ -24,9 +24,9 @@ The project is developed using:
 - **MySQL** (database for storing users, messages, media, etc.)  
 - **WebSocket / WebRTC frameworks** (for real-time messaging and audio/video calls)  
 - **Git & GitHub** (version control)  
-- **Figma** (design and prototyping)  
-- **AWS** (deployment and hosting)  
+- **Figma** (design and prototyping)   
 - **Trello** (project management)
+- **AWS** (deployment and hosting) 
 
 > **Note:** The project uses only **Java** in the repositories as per the course requirement.  
 
