@@ -42,7 +42,7 @@ This organization contains multiple repositories related to Konnekt:
 --->
 - [**konnekt**](https://github.com/Konnekt-Official/konnekt) – Main Java project repository containing the full application code, including backend logic, frontend UI, and integration of real-time messaging, audio/video calls, feed, profile, chat, community, and other core features. 
 - [**konnekt-assets**](https://github.com/Konnekt-Official/konnekt-assets) – Images, icons, videos, and other media assets used in the project
-- [**konnekt-docs**](https://github.com/Konnekt-Official/konnekt-docs) – Project proposal, user stories, low & high-fidelity designs  
+- [**konnekt-docs**](https://github.com/Konnekt-Official/konnekt-docs) – Contains all project documentation, including the project proposal, user stories, low and high-fidelity designs, project log, group report, and more.  
 
 ---
 
